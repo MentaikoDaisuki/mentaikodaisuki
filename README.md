@@ -1,4 +1,14 @@
-## Hi there 👋
+# Welcome to My Alt Account! 👋
+
+This is my alternative GitHub account, created for learning and practicing various programming skills and projects.  
+Here, I explore new ideas, experiment with different frameworks, and improve my coding abilities without affecting my main account.
+
+## About Me
+I'm a gamer but also a programmer.  
+I do content creation on YouTube and TikTok as a VTuber clipper.
+And I also love Mentaiko! 😋
+
+
 
 <!--
 **MentaikoDaisuki/mentaikodaisuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
